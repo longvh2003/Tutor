@@ -1,0 +1,10 @@
+.latest-content{
+    padding: 1rem;
+    position: relative;
+    z-index: 9999;
+    margin-top: -3rem;
+}
+.img-latest-content{
+    width: 100%;
+    height: auto;
+}

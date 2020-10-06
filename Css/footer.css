@@ -1,0 +1,15 @@
+.padding-4{
+    padding: 4.5rem 0;
+}
+.footer-icon{
+    position: relative;
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+}
+.footer-icon i{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}

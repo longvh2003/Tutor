@@ -1,0 +1,15 @@
+.latest-content{
+    padding: 1rem;
+    position: relative;
+    z-index: 9999;
+    margin-top: -5rem;
+}
+.left-latest-content, .right-latest-content{
+    box-shadow: 0 15px 30px 0 rgba(0, 0, 0, 0.05);
+    background: #fff;
+    border: 1px solid rgba(0, 0, 0, 0.05);
+}
+.img-latest-content{
+    width: 100%;
+    height: auto;
+}

@@ -1,0 +1,14 @@
+.content img{
+    width: 100%;
+}
+.team{
+    position: relative;
+}
+.team img{
+    position: absolute;
+    width: 90px;
+    height: 90px;
+    top: -20%;
+    left: 50%;
+    transform: translate(-50%,0);
+}

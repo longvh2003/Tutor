@@ -1,0 +1,18 @@
+.form-control{
+    border: none;
+    background-color: #efefef!important;
+    padding-left: 20px;
+}
+.form-group input{
+    height: 60px;
+}
+.form-group textarea{
+    height: 200px;
+}
+form button{
+    width: 300px;
+    height: 60px;
+}
+.contact{
+    height: 352px !important;
+}
